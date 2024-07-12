@@ -1,0 +1,50 @@
+C:\Users\vinoj\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.AssemblyReference.cache
+C:\Users\vinoj\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Home.resources
+C:\Users\vinoj\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Login.resources
+C:\Users\vinoj\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Properties.Resources.resources
+C:\Users\vinoj\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.GenerateResource.cache
+C:\Users\vinoj\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.CoreCompileInputs.cache
+C:\Users\vinoj\source\repos\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe.config
+C:\Users\vinoj\source\repos\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe
+C:\Users\vinoj\source\repos\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.pdb
+C:\Users\vinoj\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.exe
+C:\Users\vinoj\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.pdb
+C:\Users\vinoj\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Member_Registration.resources
+C:\Users\vinoj\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Registration.resources
+C:\Users\vinoj\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Trainor_Registration.resources
+C:\Users\vinoj\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Equipment_Registration.resources
+C:\Users\vinoj\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Update.resources
+C:\Users\vinoj\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Trainer_Delete_Update.resources
+C:\Users\vinoj\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Member_Update_Delete.resources
+C:\Users\vinoj\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Main.resources
+C:\Users\vinoj\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.member_delete_update.resources
+C:\Users\vinoj\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Member_Update.resources
+C:\Users\vinoj\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Trainor_Delete_Update.resources
+C:\Users\vinoj\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Trainor_Update.resources
+C:\Users\DELL\Desktop\WindowsFormsApp13 NEW\WindowsFormsApp13 NEW\obj\Debug\WindowsFormsApp13.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\WindowsFormsApp13 NEW\WindowsFormsApp13 NEW\obj\Debug\WindowsFormsApp13.exe
+C:\Users\DELL\Desktop\WindowsFormsApp13 NEW\WindowsFormsApp13 NEW\obj\Debug\WindowsFormsApp13.pdb
+C:\Users\ASUS\Downloads\WindowsFormsApp13 NEW\WindowsFormsApp13 NEW\bin\Debug\GymManager.exe.config
+C:\Users\ASUS\Downloads\WindowsFormsApp13 NEW\WindowsFormsApp13 NEW\bin\Debug\GymManager.exe
+C:\Users\ASUS\Downloads\WindowsFormsApp13 NEW\WindowsFormsApp13 NEW\bin\Debug\GymManager.pdb
+C:\Users\ASUS\Downloads\WindowsFormsApp13 NEW\WindowsFormsApp13 NEW\bin\Debug\MetroFramework.Design.dll
+C:\Users\ASUS\Downloads\WindowsFormsApp13 NEW\WindowsFormsApp13 NEW\bin\Debug\MetroFramework.dll
+C:\Users\ASUS\Downloads\WindowsFormsApp13 NEW\WindowsFormsApp13 NEW\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ASUS\Downloads\WindowsFormsApp13 NEW\WindowsFormsApp13 NEW\bin\Debug\System.Data.SQLite.dll
+C:\Users\ASUS\Downloads\WindowsFormsApp13 NEW\WindowsFormsApp13 NEW\bin\Debug\System.Data.SQLite.xml
+C:\Users\ASUS\Downloads\WindowsFormsApp13 NEW\WindowsFormsApp13 NEW\obj\Debug\WindowsFormsApp13.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\WindowsFormsApp13 NEW\WindowsFormsApp13 NEW\obj\Debug\WindowsFormsApp13.Equipment_Update.resources
+C:\Users\ASUS\Downloads\WindowsFormsApp13 NEW\WindowsFormsApp13 NEW\obj\Debug\WindowsFormsApp13.Member_Update.resources
+C:\Users\ASUS\Downloads\WindowsFormsApp13 NEW\WindowsFormsApp13 NEW\obj\Debug\WindowsFormsApp13.DataViewer.resources
+C:\Users\ASUS\Downloads\WindowsFormsApp13 NEW\WindowsFormsApp13 NEW\obj\Debug\WindowsFormsApp13.Equipment_Registration.resources
+C:\Users\ASUS\Downloads\WindowsFormsApp13 NEW\WindowsFormsApp13 NEW\obj\Debug\WindowsFormsApp13.Login.resources
+C:\Users\ASUS\Downloads\WindowsFormsApp13 NEW\WindowsFormsApp13 NEW\obj\Debug\WindowsFormsApp13.Member_Registration.resources
+C:\Users\ASUS\Downloads\WindowsFormsApp13 NEW\WindowsFormsApp13 NEW\obj\Debug\WindowsFormsApp13.NewPayment.resources
+C:\Users\ASUS\Downloads\WindowsFormsApp13 NEW\WindowsFormsApp13 NEW\obj\Debug\WindowsFormsApp13.Properties.Resources.resources
+C:\Users\ASUS\Downloads\WindowsFormsApp13 NEW\WindowsFormsApp13 NEW\obj\Debug\WindowsFormsApp13.Trainer_Registration.resources
+C:\Users\ASUS\Downloads\WindowsFormsApp13 NEW\WindowsFormsApp13 NEW\obj\Debug\WindowsFormsApp13.Trainer_Update.resources
+C:\Users\ASUS\Downloads\WindowsFormsApp13 NEW\WindowsFormsApp13 NEW\obj\Debug\WindowsFormsApp13.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\WindowsFormsApp13 NEW\WindowsFormsApp13 NEW\obj\Debug\WindowsFormsApp13.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\WindowsFormsApp13 NEW\WindowsFormsApp13 NEW\obj\Debug\WindowsFormsApp13.csproj.CopyComplete
+C:\Users\ASUS\Downloads\WindowsFormsApp13 NEW\WindowsFormsApp13 NEW\obj\Debug\GymManager.exe
+C:\Users\ASUS\Downloads\WindowsFormsApp13 NEW\WindowsFormsApp13 NEW\obj\Debug\GymManager.pdb
